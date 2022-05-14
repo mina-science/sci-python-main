@@ -1,2 +1,8 @@
 python for data science
 
+Interesting github  repositories
+
+https://github.com/modern-tools-workshop/AGU-python-workshop-2021
+https://github.com/IMMM-SFA/msd_uncertainty_ebook
+https://immm-sfa.github.io/msd_uncertainty_ebook
+
