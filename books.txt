@@ -1,6 +1,8 @@
 Data structures
 
-Pequential and Parallel Algorithms and Data Structures: The Basic Toolbox (https://b-ok.cc/book/5300371/9a590e)
+=======
+Tequential and Parallel Algorithms and Data Structures: The Basic Toolbox (https://b-ok.cc/book/5300371/9a590e)
+>>>>>>> 79eb802dcc9fe78e6f6f5fa6d2daa4f2e44dcdb7
 Data Structures (https://b-ok.cc/book/5472520/72b5db)
 
 python for data science
