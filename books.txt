@@ -1,13 +1,11 @@
 Data structures
 
-=======
-Tequential and Parallel Algorithms and Data Structures: The Basic Toolbox (https://b-ok.cc/book/5300371/9a590e)
->>>>>>> 79eb802dcc9fe78e6f6f5fa6d2daa4f2e44dcdb7
+Sequential and Parallel Algorithms and Data Structures: The Basic Toolbox (https://b-ok.cc/book/5300371/9a590e)
 Data Structures (https://b-ok.cc/book/5472520/72b5db)
 
 python for data science
 
-Interesting github  repositories
+Interesting github repositories
 
 https://github.com/modern-tools-workshop/AGU-python-workshop-2021
 https://github.com/IMMM-SFA/msd_uncertainty_ebook
